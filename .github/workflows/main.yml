@@ -12,7 +12,7 @@ jobs:
     runs-on: windows-latest
     strategy:
       fail-fast: false
-      matrix:
+      matrix: 
         python-version: ["3.9", "3.10"]
 
     steps:
