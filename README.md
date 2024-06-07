@@ -30,6 +30,8 @@ The project uses GitHub Actions for Continuous Integration (CI). The workflow is
 
 
 
+
 Code Quality Analysis with SonarCloud
-As a bonus, the project is also integrated with SonarCloud for code quality analysis and Pull request was successfully merged and closed howere there seem an issue 
-![image](https://github.com/M-Hunain5037/Assignment/assets/141824020/3f29f0a1-2bb2-49f6-ab94-48d9d35ed275)
+As a bonus, the project is also integrated with SonarCloud for code quality analysis and Pull request was successfully merged and show analysis report of my code 
+
+![image](https://github.com/M-Hunain5037/Assignment/assets/141824020/7d079499-d59c-4dd4-b68d-82eac16b256d)
